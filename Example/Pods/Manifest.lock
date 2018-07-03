@@ -1,0 +1,16 @@
+PODS:
+  - IOSBlinkingLabel (0.1.0)
+
+DEPENDENCIES:
+  - IOSBlinkingLabel (from `../`)
+
+EXTERNAL SOURCES:
+  IOSBlinkingLabel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  IOSBlinkingLabel: 9e20fb9e53e825d101660addf5f80b4dd523251d
+
+PODFILE CHECKSUM: deb0d3c72ec389339df129321c6f22369101366d
+
+COCOAPODS: 1.5.3
