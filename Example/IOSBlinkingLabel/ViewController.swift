@@ -1,5 +1,4 @@
 
-import UIKit
 import IOSBlinkingLabel
 
 class ViewController: UIViewController {
